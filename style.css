@@ -1,5 +1,15 @@
-h1{color: #f0f}
-span {
-    border:1px solid red;
-    padding:3px;
-    }
+h1 {
+    font-family: Times;
+    font-size: 16pt;
+  }
+  p {
+    color: rgb(192, 13, 13);
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
